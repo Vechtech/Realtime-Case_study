@@ -1,0 +1,31 @@
+body{
+
+background-color: lime;
+font-size: 20px;
+color: red;
+
+}
+.pic{
+
+width: 300px;
+height: 350px;
+border-radius: 20%;
+border-width: 4px;
+border-style: solid;
+border-color: blue;
+
+}
+.mobile{
+
+color: crimson;
+font-size: 25px;
+background-color: cyan;
+
+}
+.google{
+
+    color: rgb(216, 253, 4);
+    font-size: 25px;
+    background-color: rgb(38, 0, 255);
+    
+    }
